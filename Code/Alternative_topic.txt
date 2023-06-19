@@ -1,0 +1,15 @@
+Our alternative Topic: 
+Modeling a coral reef using 3D Cellular automata.
+
+Application Domain: 
+Computational Biology/ Environmental Sciences
+
+Model to be used: 
+3D Cellular Automata, based on previous work(github reference). Perculation is analzed based on Monte carlo methode.
+
+Research question:
+At what growth rate factor does  perculation occur?
+Can we find a supercriticality signaling the "edge" of a coral reef.
+
+real Data:
+Density of Coral reef based on location
