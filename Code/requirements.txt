@@ -1,0 +1,5 @@
+Basic distributions for the following packages are needed.
+
+numpy
+matplotlib
+math
