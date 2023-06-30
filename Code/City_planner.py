@@ -118,7 +118,6 @@ def init_grid(N):
     return retgrid
 
 def simulate_CA_city(dimensions = 100,time = 30,alpha=2.5,amplify_c = 8,amplify_r = 200,amplify_v = 10,amplify_i = 170):
-    
     """
     For given alpha and growth parameters will perform a CA transition step based until time has run out.
     """
