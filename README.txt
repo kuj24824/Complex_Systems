@@ -33,8 +33,8 @@ packages are detailed in requirements.txt.
 -----------------------------------------
 -------------HOW TO USE------------------
 -----------------------------------------
-In order to run the model, please open the "CA_city_revised_with _parameter_adjusting.ipynb"
-file to run the model. The final section of the file "Start Storing data", it stores the value
+In order to run the main model, please open the "CA_city_revised_with _parameter_adjusting.ipynb"
+file in CSS final code of main model folder to run the model. The final section of the file "Start Storing data", it stores the value
 of some analysis of the model, such as fractal dimension, cluster information, conditional 
 entropy, etc, with varying values of the growth rate of commercial and alpha (stochastic 
 perturbation term). We also tried some other variations of changing parameters. For instance,
@@ -46,3 +46,6 @@ to convert these npz files into CSV data frame files. For convenience, one can d
 analysis of this second version of data frames in "Additional_data_analysis.ipynb" file. 
 For the first version of the data frame, the data is stored as "CA_simulation_data_v1.csv",
 and one can run analysis of the data by "Data_analysis_of_simulation_result.ipynb" . 
+
+For our own model, please run each cell in 'BaseCityplanner.ipynb' in the 'Challenger Model'-folder 
+for comparative probabilistic model solutions.
