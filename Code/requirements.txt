@@ -1,5 +1,12 @@
-Basic distributions for the following packages are needed.
-
 numpy
 matplotlib
 math
+pandas
+powerlaw
+csv
+collections
+scipy
+multiprocessing
+time
+itertools
+sys
